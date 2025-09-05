@@ -1,0 +1,10 @@
+test=input("Введите букви: ")
+print(test[::-1])
+tets=input("Введите брюкву: ")
+print(len(tets))
+text=input("Введите букавы: ")
+print(text.upper())
+texxt=input("Введите букавы ещо, но больше РАЗМЕРОМ: ")
+print(texxt.lower())
+sext="fuck asss"
+print("cuckold" in sext)
